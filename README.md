@@ -31,7 +31,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou o **Peaga Quint**, desenvolvedor focado em criar produtos digitais modernos, aplicações reativas e fluxos de automação de alto valor agregado. Combino a elegância e a interatividade do **ecossistema Web (React, JS, HTML, CSS)** com o poder de processamento e inteligência do **Python, IA e bancos de dados SQL**.
+Olá! Sou o **Quintiliano DEV**, desenvolvedor focado em criar produtos digitais modernos, aplicações reativas e fluxos de automação de alto valor agregado. Combino a elegância e a interatividade do **ecossistema Web (React, JS, HTML, CSS)** com o poder de processamento e inteligência do **Python, IA e bancos de dados SQL**.
 
 - 🚀 **Frontend Reativo:** Construção de interfaces componentizadas, responsivas e dinâmicas com **React**, **JavaScript Moderno**, **CSS3** e **HTML5**.
 - 🐍 **Engenharia & Backend com Python:** Desenvolvimento de scripts, crawlers, APIs e pipelines automatizados.
