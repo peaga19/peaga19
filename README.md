@@ -2,7 +2,7 @@
 
   <!-- Header Banner Dinâmico com Gradiente & Efeito de Ondas -->
   <a href="https://github.com/peaga19">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Peaga%20Quint&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack%20%7C%20Automa%C3%A7%C3%B5es%20com%20IA&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Quintiliano%20Dev&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack%20%7C%20Automa%C3%A7%C3%B5es%20com%20IA&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
   </a>
 
   <!-- Typing SVG Animado com CSS -->
